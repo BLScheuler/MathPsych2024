@@ -1,1 +1,10 @@
 # MathPsych2024
+A collection of material for the MathPsych 2024 Conference
+
+Title: Utilizing response time assessments of cognitive function: The first step in understanding cancer-related cognitive impairment
+
+Abstract: Oncology professionals rely on self-report questionnaires to assess cognitive function throughout cancer treatment. This has proven problematic, as inconsistent and contradictory results have hindered the ability to measure the nuances of cognitive dysfunction. In turn, researchers have struggled to pinpoint the true underlying cause of cancer-related cognitive impairment amongst the array of possible sources.  We believe that by utilizing the partitioning, highly sensitive capabilities of response time modeling in cognitive assessments, we will be able to encapsulate cancer-related cognitive impairment more accurately. By studying response time model trends across assessments of biomarkers, we aim to evaluate the possibility of immune response playing a causal role in cognitive dysfunction. The purpose of the current study was to establish a baseline understanding of the typical function associated with our assessment task and perform a power analysis to determine the necessary number of trials that will ensure as accurate of response time parameters as possible. The cognitive assessment tested in this project was the dual-n-back test. This task challenges participants to remember a string of auditory and visual stimuli, allowing researchers to test the capabilities and limits of working memory, one of the main areas of cognition impacted by cancer-related cognitive impairment. We believe that the current study’s quantitative approach will elucidate components of the underlying cognitive mechanisms involved in working memory, through the workload capacity metric. This study served as an important first step in understanding and measuring the complexities of cancer-related cognitive impairment.
+
+Contact Information: Bryanna.Scheuler@my.utsa.edu
+
+Note: As of July 2nd, this study is still ongoing and results are not yet available. For updates, please reach out to Bryanna.
